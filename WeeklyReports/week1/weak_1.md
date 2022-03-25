@@ -10,15 +10,15 @@ System Requirements for Linux
 
 ## Final Project Research Questions and answers
 
-###What is Linux?
+### What is Linux?
 Linux is a Unix-like Operating System that consists of a kernel, libraries, and utilities. Linux is available in many distributions. 
 
-###What is a Linux distribution?
+### What is a Linux distribution?
 A complete Linux system is called a Linux Distribution. A Linux distribution is made up of a Linux Kernel, Core Unix tools, supplemental software, startup scripts, and an installer. They are also mostly free and open source software. 
 
-###What is Ubuntu?
+### What is Ubuntu?
 Ubuntu is a Linux distribution that is freely available with both community and professional support. They live by the core values that their software should be free and be able to be used by anyone no matter what language they speak or disabilities they have.
 
-###What are the system requirements for installing Ubuntu 20.04
+### What are the system requirements for installing Ubuntu 20.04
 
 ![Ubuntu Requirements](ubunturequire.PNG)
