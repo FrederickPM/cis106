@@ -114,7 +114,8 @@ The linux file system has many commands that are useful to navigate through it. 
 | ------- | --------------- | ---------------- | ------- |
 | pwd     | Display the current working directory | pwd | pwd |
 | cd      | Change the current working directory | cd + destination | cd /home/user/Documents |
-| ls      | Display all the files inside a given directory | ls + option + file or dir |ls -a ~/Pictures  |
+| ls      | Display all the files inside a given directory | ls + option + file or dir |ls -a ~/Pictures|
+
 ![filesystem](Filesystem.png)
 
 ### Managing files and directories
