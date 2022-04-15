@@ -102,7 +102,7 @@ There are many simple commands to use in linux some include:
 | cowsay  |configurable speaking/thinking cow (and a bit more)           |
 | lolcat  |rainbow coloring for text                                     |
 | figlet  |display large characters made up of ordinary screen characters|
-| toilet  |display large colorful characters                            |
+| toilet  |display large colorful characters                             |
 | rig     |Random Identity Generator                                     |
 | man     |shows the manual for any command                              |
 
