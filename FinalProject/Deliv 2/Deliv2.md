@@ -77,7 +77,7 @@ VirtualBox is a type 2 virtualization product for enterprise and at home use. It
 
 ## Updating Ubuntu 
 
-Their are two ways to update Ubuntu one is to simply type software update into your applications. ![software](updateubuntu.png)
+There are two ways to update Ubuntu one is to simply type software update into your applications. ![software](updateubuntu.png)
 
 The other is to use the command `sudo apt update; sudo apt upgrade -y`
 
